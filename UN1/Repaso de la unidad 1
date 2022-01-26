@@ -1,0 +1,23 @@
+Revisar
+
+¡Felicitaciones por completar la primera lección de HTML! Está en camino de convertirse en un desarrollador web calificado.
+
+Repasemos lo que ha aprendido hasta ahora:
+
+-HTML significa HyperText Markup Language y se utiliza para crear la estructura y el contenido de una página web.
+-La mayoría de los elementos HTML contienen etiquetas de apertura y cierre con texto sin formato u otras etiquetas HTML entre ellos.
+-Los elementos HTML se pueden anidar dentro de otros elementos. El elemento adjunto es el hijo del elemento padre adjunto.
+-Cualquier contenido visible debe colocarse dentro de las etiquetas <body> de apertura y cierre.
+-Los títulos y subtítulos, etiquetas <h1> a <h6>, se utilizan para proporcionar títulos para secciones de contenido.
+-Las etiquetas <p>, <span> y <div> especifican texto o bloques.
+-Las etiquetas <em> y <strong> se utilizan para enfatizar el texto.
+-Los saltos de línea se crean con la etiqueta <br>.
+-Las listas ordenadas (<ol>) están numeradas y las no ordenadas (<ul>) tienen viñetas.
+-Se pueden agregar imágenes (<img>) y videos (<video>) vinculando a una fuente existente.
+-En la siguiente lección, tomaremos el contenido que agregó a este sitio web y lo transformaremos en un documento HTML que está listo para publicarse en la Web.
+
+Instrucciones
+
+Te dejamos con tu código final. ¡Siéntete libre de jugar y modificarlo usando los nuevos elementos que has aprendido!
+
+Si desea revisar cómo estructurar HTML en un proyecto y usar elementos semánticamente significativos, mire el video a continuación y sígalo con uno de nuestros expertos:

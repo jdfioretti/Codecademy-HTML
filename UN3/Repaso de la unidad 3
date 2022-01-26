@@ -1,0 +1,31 @@
+Revisar
+¡Buen trabajo interactuando con el extremadamente común y útil elemento <form>!
+
+En esta lección repasamos:
+
+El propósito de un <form> es permitir a los usuarios introducir información y enviarla.
+El atributo action del <form> determina a dónde va la información del formulario.
+El atributo method del <form> determina cómo se envía y procesa la información.
+Para añadir campos para que los usuarios introduzcan información utilizamos el elemento <input> y establecemos el atributo type a un campo de nuestra elección:
+Al establecer el tipo como "texto" se crea un campo de una sola fila para la entrada de texto.
+Si el tipo es "contraseña", se crea un campo de una sola fila que censura la entrada de texto.
+Si el tipo es "número", se crea un campo de una sola fila para la introducción de números.
+Si el tipo es "rango", se crea un control deslizante para seleccionar un rango de números.
+Si el tipo es "casilla de verificación", se crea una casilla de verificación única que se puede emparejar con otras casillas de verificación.
+Si el tipo es "radio", se crea un botón de radio que se puede emparejar con otros botones de radio.
+Establecer el tipo a "list" emparejará el <input> con un elemento <datalist> si el id de ambos es el mismo.
+Al establecer el tipo como "submit" se crea un botón de envío.
+Un elemento <select> se rellena con elementos <option> y muestra una selección de lista desplegable.
+Un elemento <datalist> se rellena con elementos <option> y funciona con un <input> para buscar entre las opciones.
+Un elemento <textarea> es un campo de entrada de texto que tiene un área personalizable.
+Cuando se envía un <form>, el nombre de los campos que aceptan entradas y el valor de esos campos se envían como pares nombre=valor.
+El uso del elemento <form> junto con los otros elementos enumerados anteriormente nos permite crear sitios que tienen en cuenta los deseos y necesidades de nuestros usuarios. Aproveche la oportunidad de tomar lo que ha aprendido y aplíquelo.
+
+Instrucciones
+Si quieres desafiarte a ti mismo:
+
+Cree un formulario con múltiples campos que acepten la entrada del usuario.
+Añade dos conjuntos separados de botones de radio o casillas de verificación.
+Busca cómo añadir un marcador de posición (hint hint) a un campo de entrada. Un marcador de posición aparece cuando el campo no tiene valor, desaparece después de que el usuario escriba o seleccione algo en el campo.
+
+Traducción realizada con la versión gratuita del traductor www.DeepL.com/Translator

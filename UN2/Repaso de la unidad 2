@@ -1,0 +1,29 @@
+Revisar
+¡Gran trabajo! En esta lección, hemos aprendido a crear una tabla, a añadirle datos y a seccionar la tabla en partes más pequeñas que faciliten su lectura.
+
+Repasemos lo que hemos aprendido hasta ahora:
+
+El elemento <table> crea una tabla.
+El elemento <tr> añade filas a una tabla.
+Para añadir datos a una fila, se puede utilizar el elemento <td>.
+Los encabezados de las tablas aclaran el significado de los datos. Los encabezados se añaden con el elemento <th>.
+Los datos de la tabla pueden abarcar columnas utilizando el atributo colspan.
+Los datos de la tabla pueden abarcar filas utilizando el atributo rowspan.
+Las tablas pueden dividirse en tres secciones principales: una cabeza, un cuerpo y un pie de página.
+La cabeza de una tabla se crea con el elemento <thead>.
+El cuerpo de una tabla se crea con el elemento <tbody>.
+El pie de una tabla se crea con el elemento <tfoot>.
+Todas las propiedades CSS que has aprendido en este curso se pueden aplicar a las tablas y a sus datos.
+Enhorabuena por haber completado el curso de Tablas HTML.
+
+Instrucciones
+Tómate un tiempo para experimentar con tus nuevos conocimientos sobre tablas en index.html. Cuando hayas terminado, pasa a la siguiente unidad.
+
+Repaso de conceptos
+¿Quieres repasar rápidamente algunos de los conceptos que has estado aprendiendo? Echa un vistazo a la hoja de trucos de este material.
+Foros de la comunidad
+¿Todavía tienes dudas? Consulta el hilo de este ejercicio en los foros de Codecademy.
+
+
+
+
